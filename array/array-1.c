@@ -23,7 +23,7 @@ int main(void) {
 	printf("%d\n", num6[4]);	*/
 
 	for (int i = 0;i < 5;i++) { //0~4까지 5번 반복
-		printf("%d\n", num6[i]); //배열 요소값 출력
+		printf("%d\n", num6[i]); //배열 요소값 출력 //
 	}
 
 
